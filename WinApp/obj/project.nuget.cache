@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bKnKUWg0WmmffFgQ5Ta2MBZ3qMJfI12Fo25UP6RNA1Vsded4UGAkQ9pE2+/pqiC9d+Dfdjaa5MFch82PAkB/zQ==",
+  "dgSpecHash": "dco2tH4+KyYYocH4+hR/xAW9vWfzvYwxvo28JdeE8mNNsz2eoa11rUy8/fnFvCs8n0yMZtbWdiRjs8YbXjQ6Zg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\saja\\source\\repos\\WinApp\\WinApp\\WinApp.csproj",
+  "projectFilePath": "C:\\Users\\saja\\source\\repos\\WinApp\\WinApp\\VerboInves.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\saja\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512",
     "C:\\Users\\saja\\.nuget\\packages\\documentformat.openxmlsdk\\2.0.0\\documentformat.openxmlsdk.2.0.0.nupkg.sha512",

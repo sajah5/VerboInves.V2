@@ -5602,9 +5602,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\saja\\source\\repos\\WinApp\\WinApp\\WinApp.csproj",
-      "projectName": "WinApp",
-      "projectPath": "C:\\Users\\saja\\source\\repos\\WinApp\\WinApp\\WinApp.csproj",
+      "projectUniqueName": "C:\\Users\\saja\\source\\repos\\WinApp\\WinApp\\VerboInves.csproj",
+      "projectName": "VerboInves",
+      "projectPath": "C:\\Users\\saja\\source\\repos\\WinApp\\WinApp\\VerboInves.csproj",
       "packagesPath": "C:\\Users\\saja\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\saja\\source\\repos\\WinApp\\WinApp\\obj\\",
       "projectStyle": "PackageReference",
